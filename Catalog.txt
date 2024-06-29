@@ -1,0 +1,9 @@
+Nume elev: Ana Ionescu
+Note: 
+Materia: Matematica, Nota: 9, Profesor: Ion Popescu, Data: 23.09.2024
+Absente: 
+
+Nume elev: Mara Ionescu
+Note: 
+Absente: 
+
